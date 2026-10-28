@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eca28530a12ca0a46baf051bfc9825f6, type: 3}
+  m_Name: RedSprayPaint
+  m_EditorClassIdentifier: 
+  itemName: Red Spray Paint
+  itemDropPrefab: {fileID: 5618315158406208864, guid: cbe105cc00f393e4ea686392c2b79e5f, type: 3}
+  itemEquipPrefab: {fileID: 3812673505489369563, guid: 8971737c1fef47548b546b61bd09c1ba, type: 3}
+  brushTexture: {fileID: 2800000, guid: dbd7dbd13b2c51046aee83ab95a779c4, type: 3}
+  paintColor: {r: 1, g: 0, b: 0, a: 1}
+  brushSize: 30
+  brushSizes:
+  - 10
+  - 20
+  - 30
+  - 50
+  - 70
+  sprayRange: 5
+  canvasSize: 320

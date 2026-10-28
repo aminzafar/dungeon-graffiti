@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eca28530a12ca0a46baf051bfc9825f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - itemDropPrefab: {instanceID: 0}
+  - itemEquipPrefab: {instanceID: 0}
+  - brushTexture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

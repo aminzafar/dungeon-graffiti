@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eca28530a12ca0a46baf051bfc9825f6, type: 3}
+  m_Name: BlueSprayPaint
+  m_EditorClassIdentifier: 
+  itemName: Blue Spray Paint
+  itemDropPrefab: {fileID: 7669663693106045750, guid: 110b85f813737f845ac51bba91b376a7, type: 3}
+  itemEquipPrefab: {fileID: 1295815228942681905, guid: 13a60e5d0f722464eb5ee4adb717dcdc, type: 3}
+  brushTexture: {fileID: 2800000, guid: dbd7dbd13b2c51046aee83ab95a779c4, type: 3}
+  paintColor: {r: 0.09779279, g: 0.13270554, b: 0.7735849, a: 1}
+  brushSize: 30
+  brushSizes:
+  - 10
+  - 20
+  - 30
+  - 50
+  - 70
+  sprayRange: 5
+  canvasSize: 320

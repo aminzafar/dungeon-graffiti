@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b064e8a6f17844a498aa252d1380820e, type: 3}
+  m_Name: BasketBall
+  m_EditorClassIdentifier: 
+  itemName: Basket Ball
+  itemDropPrefab: {fileID: 827179409442310555, guid: 622c923a3de166447b40139a0a652ba7, type: 3}
+  itemEquipPrefab: {fileID: 7267267665217514040, guid: 6f614c43aa2dc564d81850164488103b, type: 3}
+  throwForce: 10

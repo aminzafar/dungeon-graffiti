@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b064e8a6f17844a498aa252d1380820e, type: 3}
+  m_Name: FootBall
+  m_EditorClassIdentifier: 
+  itemName: Foot Ball
+  itemDropPrefab: {fileID: 1814783600220601904, guid: 30d06e55ef4825b4c9a902eb9224a6ad, type: 3}
+  itemEquipPrefab: {fileID: 8732893296923475448, guid: 283cf144f6a6cae409af9f8044650c1b, type: 3}
+  throwForce: 5
